@@ -14,7 +14,7 @@ store_data_for_celltophenotype.RData -- data required for running CellToPhenotyp
 datMM_figureS2_data.txt —- data required for supplementary figure S2
 datMM_figure4c_data.txt —  data required for figure 4c
 
-Required R package to install -- "glmnet" (https://cran.r-project.org/web/packages/glmnet/index.html)
+Required R package to install -- "glmnet" (https://cran.r-project.org/web/packages/glmnet/index.html). We used glment version used 2.0-10. 
 
 Thank you very much. 
 
