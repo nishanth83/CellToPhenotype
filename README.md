@@ -1,6 +1,6 @@
 # CellToPhenotype
 
-Code to run CellToPhenotype predictor
+Code to run CellToPhenotype predictor. The code is available for free download and use. 
 
 authors of the CellToPhenotype predictors -- Nishanth Ulhas Nair and Avinash Das.
 contact: nishanth.u.nair@gmail.com (Nishanth Ulhas Nair)
