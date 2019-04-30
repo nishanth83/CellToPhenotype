@@ -1,6 +1,6 @@
 # CellToPhenotype
 
-Code to run CellToPhenotype predictor. The code is available for free download and use. 
+Code to run CellToPhenotype predictor. 
 
 authors of the CellToPhenotype predictors -- Nishanth Ulhas Nair and Avinash Das.
 contact: nishanth.u.nair@gmail.com (Nishanth Ulhas Nair)
@@ -15,6 +15,8 @@ datMM_figureS2_data.txt —- data required for supplementary figure S2
 datMM_figure4c_data.txt —  data required for figure 4c
 
 Required R package to install -- "glmnet" (https://cran.r-project.org/web/packages/glmnet/index.html). We used glment version 2.0-10. 
+
+The code is available for free download and use. It would be great if you could cite the paper if you use the code. 
 
 Thank you very much. 
 
