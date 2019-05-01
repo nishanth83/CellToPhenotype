@@ -16,7 +16,7 @@ datMM_figure4c_data.txt —  data required for figure 4c
 
 Required R package to install -- "glmnet" (https://cran.r-project.org/web/packages/glmnet/index.html). We used glment version 2.0-10. 
 
-The code is available for free download and use. It would be great if you could cite the paper if you use the code. 
+The code is available as free software with the GNU General Public License. It would be great if you could cite the paper if you use the code. The data used as input to the code is cited in the above mentioned Nair et al. paper, and you are requested to cite the relevant papers if you use the data.  
 
 Thank you very much. 
 
