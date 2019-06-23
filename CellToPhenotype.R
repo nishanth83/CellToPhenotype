@@ -6,15 +6,14 @@ library(glmnet)
 # normalization function 
 qnorm.array <- function(mat)
 {
-  mat.back = mat 
-  mat = mat[!is.na(mat)]
-  mat = rank(mat,  rank, ties.method = "average");
-  mat = qnorm(mat / (length(mat)+1));
-  mat = mat/sd(mat)
-  mat.back[!is.na(mat)] = mat 
-  mat.back
+	mat.back = mat 
+	mat = mat[!is.na(mat)]
+	mat = rank(mat,  rank, ties.method = "average");
+	mat = qnorm(mat / (length(mat)+1));
+	mat = mat/sd(mat)
+	mat.back[!is.na(mat.back)] = mat 
+	mat.back
 }
-
 
 load("store_data_for_celltophenotype.RData") ## saved data required for running the code
 ## actual_mig -- experimentally measured migration values in 43 cell lines
